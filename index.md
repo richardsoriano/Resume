@@ -27,4 +27,4 @@
 - [Github](https://github.com/RichardSoriano)
 - [linkedin](https://www.linkedin.com/in/richard-soriano/)
 - [Twitter](https://twitter.com/WritesNCodes)
-- [soriano.richard2020@gmail.com](soriano.richard2020@gmail.com), Los Angeles, CA
+- [soriano.richard2020@gmail.com](soriano.richard2020@gmail.com), Los Angeles, CA. Willing to relocate or work remotely.
