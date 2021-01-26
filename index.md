@@ -10,7 +10,7 @@ I'm currently seeking a front end development position with 2-3 year experience 
 ## Projects
 - [Full Stack Survey](https://hidden-bayou-53427.herokuapp.com/) - Users login using Google Authentication. Users can create a survey. Send a poll survey to a list of emails. ***MERN, NodeJS, ReactJS, MongoDB, Login (google Oath-2), Email & polling links [Sendgrid](http://sendgrid.com), [Stripe Payment](https://stripe.com)***
 - [Arcs For Animals](https://tranquil-anchorage-11000.herokuapp.com/) Users can list, and add animals and arcs using a Full Stack application that uses ***ReactJS, Apollo Boost, GraphQL***
-- [MERN] (https://immense-garden-56779.herokuapp.com) - A Tutorial Project by Brad Traversy. A social network with Node.js, Express, React, Redux & MongoDB, Fullstack.
+- [MERN] (https://immense-garden-56779.herokuapp.com/) - A Tutorial Project by Brad Traversy. A social network for developers.  ***Node.js, Express, React, Redux & MongoDB, Fullstack.***
 
 ## Languages
 - (MERN) NodeJS, ReactJS, Redux, GraphQL, MongoDB
