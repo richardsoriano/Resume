@@ -3,9 +3,14 @@
 Seasoned web developer seeking a front end position with 1-2 years of experience.  Comfortable coding the back end as well as unit testing and launching complex web applications. New to mobile development. Over 10 years of experience in web application development.
 
 ## Current Employment
-- [JoyMD](http:/www.joymd.com) Code front and back end for Android and IOS mobile app using react native. Track, share and graph data. Merge branches and packages between developers in Github. Create test units using Jest, Testing Library, Storybook for react components. (Nov 202 - present. contract)
-- [BabyLook](http://babylook-remo.s3-website-us-west-1.amazonaws.com/). Modify ReactJS and GraphQL to add more features for a mobile software that allows clinicians to book parents of newborns. Track, share and graph data. Software Engineer - Code the Front End and Back End to turn minimal web application demo into a working application. MERN, Node, React Hooks, Material-UI, GraphQL, MongoDB. (March 2020 - Nov 2020 contract)
-
+- [JoyMD](http:/www.joymd.com) Code front and back end for Android and IOS mobile app using react native. Track, share and graph data. Merge branches and packages between developers in Github. Create test units using Jest, Testing Library, Storybook for react components. (Nov 202 - present. software engineer, contract)
+- [BabyLook](http://babylook-remo.s3-website-us-west-1.amazonaws.com/). Modify ReactJS and GraphQL to add more features for a mobile software that allows clinicians to book parents of newborns. Track, share and graph data. Software Engineer - Code the Front End and Back End to turn minimal web application demo into a working application. MERN, Node, React Hooks, Material-UI, GraphQL, MongoDB. (March 2020 - Nov 2020 software engineer, contract)
+- [Papillon Village]. Manage a 20 bed care facility for special need adults. 
+Implement strategies to reduce behaviors, provide care for the residents and manage staff.
+ (2004 - 2020 owner / administrator)
+ - [AlphaDetail](http:/www.alphadetail.com). Program ASP, ASP.NET, C++, C#, Javascript web pages for  online surveys stored in SQL DB. (2001 - 2004 senior software engineer)
+ - [JDate](http:/www.jdate.com). Code ASP, C++, VB, Javascript pages for full stack dating website with a SQL DB (2000 - 2001 software engineer)
+ - [Xerox] Using ASP, VB and Javascript to develop a web application for online queue of printer jobs. (1997 - 2000 software engineer)
 
 ## Projects
 - [Salon Screenplay](https://comments-for-movies.netlify.app/#/) Work with fellow screenwriters to design a web application to identify movies with searchable keyword traits. Allows screenwriters to tag and comment movies. Work in Progress. Users can use CRUD methods as well as categorize movies and search movies by categories. Side Project. ***ReactJS***
@@ -14,8 +19,8 @@ Seasoned web developer seeking a front end position with 1-2 years of experience
 - [MERN] (https://immense-garden-56779.herokuapp.com/) - A Tutorial Project by Brad Traversy. A social network for developers.  ***Node.js, Express, React, Redux & MongoDB, Fullstack.***
 
 ## Languages
-- Javascript, React, React Native, Redux Typescript,
-- NodeJS, Express, Apollo, GraphQL, SQL, Mongoose, Rest API’s
+- FRONT END Javascript, React, React Native, Redux Typescript,
+- BACK END NodeJS, Express, Apollo, GraphQL, SQL, Mongoose, Prisma, Rest API’s
 
 ## Dev Tools
 - Github, Gitlab, Bootstrap, Material-UI, Visual Source Code, Atom
@@ -25,8 +30,8 @@ Seasoned web developer seeking a front end position with 1-2 years of experience
 
 ## Education
 - 10+ years of web application and programming experience. 
-- 1 year of self-study in Front End on Udemy courses. React, Redux. As well as Full Stack on MERN, Node, Express, React, MongoDB.
-- UC San Diego - B.S. in Computer Engineer
+- 2 years of self-study in Front End on Udemy courses. React, Redux, Typescript, Jest. As well as Full Stack on MERN, Node, Express, React, MongoDB, Prisma, GraphQL and React Native
+- UC San Diego - B.S. in Computer Engineer '96
 
 ## Links
 - [Github](https://github.com/RichardSoriano)
