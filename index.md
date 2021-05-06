@@ -13,10 +13,10 @@ Implement strategies to reduce behaviors, provide care for the residents and man
  - [Xerox] Using ASP, VB and Javascript to develop a web application for online queue of printer jobs. (1997 - 2000 software engineer)
 
 ## Projects
-- [Salon Screenplay](https://comments-for-movies.netlify.app/#/) Work with fellow screenwriters to design a web application to identify movies with searchable keyword traits. Allows screenwriters to tag and comment movies. Work in Progress. Users can use CRUD methods as well as categorize movies and search movies by categories. Side Project. ***ReactJS***
+- [Developer Connector, Social Media for Developers](https://immense-garden-56779.herokuapp.com/) - MERN. A Tutorial Project by Brad Traversy. A social network for developers.  ***Node.js, Express, React, Redux & MongoDB, Fullstack.***
 - [Full Stack Survey](https://hidden-bayou-53427.herokuapp.com/) - Users login using Google Authentication. Users can create a survey. Send a poll survey to a list of emails. ***MERN, NodeJS, ReactJS, MongoDB, Login (google Oath-2), Email & polling links [Sendgrid](http://sendgrid.com), [Stripe Payment](https://stripe.com)***
 - [Arcs For Animals](https://tranquil-anchorage-11000.herokuapp.com/) Users can list, and add animals and arcs using a Full Stack application that uses ***ReactJS, Apollo Boost, GraphQL***
-- [MERN] (https://immense-garden-56779.herokuapp.com/) - A Tutorial Project by Brad Traversy. A social network for developers.  ***Node.js, Express, React, Redux & MongoDB, Fullstack.***
+- [Salon Screenplay](https://comments-for-movies.netlify.app/#/) Work with fellow screenwriters to design a web application to identify movies with searchable keyword traits. Allows screenwriters to tag and comment movies. Work in Progress. Users can use CRUD methods as well as categorize movies and search movies by categories. Side Project. ***ReactJS***
 
 ## Languages
 - FRONT END Javascript, React, React Native, Redux Typescript,
